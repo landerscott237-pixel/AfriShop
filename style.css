@@ -30,3 +30,23 @@ nav a {
 nav a:hover {
     text-decoration: underline;
 }
+
+#accueil {
+    background-color: beige;
+    text-align: center;
+    padding: 60px 20px;
+}
+
+.bouton {
+    display: inline-block;
+    background-color: darkgreen;
+    color: white;
+    text-decoration: none;
+    padding: 12px 24px;
+    border-radius: 6px;
+    margin-top: 15px;
+}
+
+.bouton:hover {
+    background-color: #014d01;
+}
